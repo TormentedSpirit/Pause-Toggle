@@ -1,0 +1,16 @@
+::res://::1432748780
+icon.png::ImageTexture::1432714377::
+::res://Fonts::1432714674
+Comic.fnt::Font::1432714674::font<>C:/windows/fonts/comic.ttf<>15fbe4ccea5683707815c9aa9cf71a46<>1244666604
+::res://Scenes::1432748796
+Game.scn::PackedScene::1432748796::
+MainMenu.scn::PackedScene::1432715562::
+Options.scn::PackedScene::1432716270::
+::res://Scripts::1432748802
+Global.gd::GDScript::1432716275::
+MainMenu.gd::GDScript::1432716275::
+Options.gd::GDScript::1432716275::
+Player.gd::GDScript::1432748802::
+input.gd::GDScript::1432748802::
+::res://Themes::1432714892
+menu.thm::Theme::1432714892::
